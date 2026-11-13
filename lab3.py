@@ -16,3 +16,5 @@ print(f"Заданий рядок: {input_str}")
 print(f"Ключ: {key}")
 print(f"Шифр: {cipher(input_str, key)}")
 
+print("hello")
+
